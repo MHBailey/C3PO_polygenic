@@ -1,0 +1,44 @@
+title: hallmarks
+symbols:
+  - name: Adaptive immunity
+    src: Hallmark_jpgs/V2/Immune_destruction.v2_ADPT.png
+  - name: Angiogenesis
+    src: Hallmark_jpgs/V2/Angiogenesis.v2.png
+  - name: Cancer driver_genes
+    src: Hallmark_jpgs/V2/Plasticity.v2.png
+  - name: Cell_cycle apoptosis
+    src: Hallmark_jpgs/V2/Senescent.v2.png
+  - name: Chromatin modification
+    src: Hallmark_jpgs/V2/Epigenetic.v2.png
+  - name: DNA_repair
+    src: Hallmark_jpgs/V2/Genome_integrity.v2.png
+  - name: EMT
+    src: Hallmark_jpgs/V2/Metastasis.v2_EMT.png
+  - name: Extracellular matrix
+    src: Hallmark_jpgs/V2/Metastasis.v2_EM.png
+  - name: Hedgehog pathway
+    src: Hallmark_jpgs/V2/Proliferative_signaling.v2_SHH.png
+  - name: Humoral immunity
+    src: Hallmark_jpgs/V2/Immune_destruction.v2_HUM.png
+  - name: Inflammation
+    src: Hallmark_jpgs/V2/Inflammation.v2.png
+  - name: Innate immunity
+    src: Hallmark_jpgs/V2/Immune_destruction.v2_INN.png
+  - name: JAK.STAT pathway
+    src: Hallmark_jpgs/V2/SuppressedGrowth.v2.png
+  - name: MAPK pathway
+    src: Hallmark_jpgs/V2/Cell_death.v2.png
+  - name: Metastasis
+    src: Hallmark_jpgs/V2/Metastasis.v2.png
+  - name: Notch pathway
+    src: Hallmark_jpgs/V2/Angiogenesis.v2_NOTCH.png
+  - name: PI3K pathway
+    src: Hallmark_jpgs/V2/Proliferative_signaling.v2_PI3K.png
+  - name: RAS pathway
+    src: Hallmark_jpgs/V2/Metabolism.v2.png
+  - name: TGFB pathway
+    src: Hallmark_jpgs/V2/Immortality.v2_TGFB.png
+  - name: Transcriptional misregulation
+    src: Hallmark_jpgs/V2/Proliferative_signaling.v2_TRANS.png
+  - name: Wnt pathway 
+    src: Hallmark_jpgs/V2/Proliferative_signaling.v2_WNT.png

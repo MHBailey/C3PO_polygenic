@@ -1,0 +1,7 @@
+Data
+Data/*
+Processed_data/*
+Figures/*
+.snakemake/*
+*.pdf
+*/.*.swp
